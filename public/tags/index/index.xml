@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on kevinadrian.dev</title>
+    <link>https://kevinadrian.dev/tags/index/</link>
+    <description>Recent content in index on kevinadrian.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Kevin Adrian Pillay. MIT</copyright>
+    <atom:link href="https://kevinadrian.dev/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devlogs</title>
+      <link>https://kevinadrian.dev/post/</link>
+      <pubDate>Fri, 22 Dec 2023 14:10:15 +0100</pubDate>
+      <guid>https://kevinadrian.dev/post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://kevinadrian.dev/projects/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://kevinadrian.dev/projects/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

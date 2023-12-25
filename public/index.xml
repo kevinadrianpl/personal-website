@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kevinadrian.dev</title>
+    <link>https://kevinadrian.dev/</link>
+    <description>Recent content on kevinadrian.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Kevin Adrian Pillay. MIT</copyright>
+    <lastBuildDate>Fri, 22 Dec 2023 14:10:15 +0100</lastBuildDate>
+    <atom:link href="https://kevinadrian.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://kevinadrian.dev/post/my-first-post/</link>
+      <pubDate>Fri, 22 Dec 2023 14:10:15 +0100</pubDate>
+      <guid>https://kevinadrian.dev/post/my-first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://kevinadrian.dev/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://kevinadrian.dev/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://kevinadrian.dev/projects/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://kevinadrian.dev/projects/</guid>
+      <description>Welcome to my projects page.</description>
+    </item>
+    <item>
+      <title>Minecraft Server</title>
+      <link>https://kevinadrian.dev/projects/minecraft-server/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://kevinadrian.dev/projects/minecraft-server/</guid>
+      <description>I own, maintain and secure a small Minecraft server that operates under the name Dxrery Networks and is a Towny server hosted in South Africa with custom mod-like features and time-based ranks in-game.&#xA;The features of the game server contain custom jobs, a questing system, a battlepass, player-based shops, a claiming system based on creating a town and a community within that town, and much more. It currently runs PaperMC which is based on Spigot, designed to greatly improve performance and offer more advanced features and API.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://kevinadrian.dev/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://kevinadrian.dev/about/</guid>
+      <description>Who am I? I&amp;rsquo;m Kevin from South Africa and I make things on the internet and occasionally off of it. I&amp;rsquo;m an experienced System Administrator and cybersecurity professional and I have a passion for all things security, learning more technical skills each day.&#xA;I sometimes play video games, work on different technical projects to enhance my skills and I often travel in my spare time.&#xA;I believe that deeply understanding the underlying systems you use (browsers, operating systems, the kernel, network layers, databases, HTTP, or whatever else that you may be running in your business, workplace or personal life) is essential if you want to do technically innovative work and to be able to solve real world problems.</description>
+    </item>
+    <item>
+      <title>Legal</title>
+      <link>https://kevinadrian.dev/legal/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://kevinadrian.dev/legal/</guid>
+      <description>Legal Disclosure This is the personal website of Kevin Adrian Pillay. Any views or opinions represented in this blog are personal and belong solely to the owner and do not represent those of people, institutions or organizations that the owner may or may not be associated with in professional or personal capacity, unless explicitly stated.&#xA;Any views or opinions are not intended to malign any religion, ethnic group, club, organization, company, or individual.</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>https://kevinadrian.dev/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevinadrian.dev/resume/</guid>
+      <description>You can view my resume below and contact me if you have any requests or job offers. Recommendations, qualifications or any other details pertaining my past experience is available on request.</description>
+    </item>
+  </channel>
+</rss>
