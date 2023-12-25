@@ -2,6 +2,7 @@
 author: "Kevin Adrian Pillay"
 title: "Projects"
 date: "2019-02-28"
+type: section
 aliases: ["projects", "project"]
 date: 2019-05-28
 ---
