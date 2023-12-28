@@ -15,12 +15,15 @@ categories = [
     "website",
     "minecraft",
 ]
-series = ["Minecraft Server"]
+series = ["Minecraft Website"]
 aliases = ["website"]
 +++
 
 ---
-A small and very basic static website based on Hugo
+A small and very basic static website built with Next.js, MDX, and Tailwind CSS.
 
-If you are interested, it can be connected to via the IP <font color="red">play.dxrery.cyou</font>.
-I have a community [Discord](https://discord.gg/Ubx7Tvu/) server if there are questions based on the server.
+The main purpose of the website is to host my own written tutorials for the in-game server to help new players. It also lists the global voting websites that players use for in-game rewards which helps the server reach more players. The server at its peak reached number 1 in South Africa, top 200 Towny servers in the world, and top 1000 servers in general. 
+
+This is a basic project but serves the community when necessary.
+
+If you are interested, you can visit the website @ <font color="red">https://web.dxrery.cyou/</font>.
