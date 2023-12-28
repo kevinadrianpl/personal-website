@@ -21,7 +21,7 @@ aliases = ["minecraft"]
 ---
 I own, maintain and secure a small Minecraft server that operates under the name <font color="red">Dxrery Networks</font> and is a Towny server hosted in South Africa with custom mod-like features and free time-based ranks in-game. 
 
-The features of the game server contain custom jobs, a questing system, a battlepass, player-based and server shops, a claiming system based on creating a town and a community within that town, and much more. It currently runs [PaperMC](https://papermc.io/downloads/paper) which is a fork of Spigot, designed to greatly improve performance and offer more advanced features and API. 
+The features of the game server contain custom jobs, a questing system, a battlepass, player-based and server shops, a claiming system based on creating a town and a community within that town, Slimefun, and much more. It currently runs [PaperMC](https://papermc.io/downloads/paper) which is a fork of Spigot, designed to greatly improve performance and offer more advanced features and API. 
 
 Many of the Java based plugins that run on the server are open source while many others are premium-paid plugins from [Spigot](https://www.spigotmc.org/resources/). A few of these plugins I have coded myself in Java and are only available on this server, *for now*. 
 
