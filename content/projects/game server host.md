@@ -30,4 +30,4 @@ This server was started in 2019 and has been online ever since, with an average 
 This project is on-going indefinitely and most likely will not shut down any time soon since it is a used on a regular basis by South African players. As there are not many other South African based servers available. This helps the community with lower bandwidth that still want to play online at no cost to them.
 
 If you are interested, it can be connected to via the IP <font color="red">play.dxrery.cyou</font>.
-I have a community [Discord](https://discord.gg/Ubx7Tvu/) server if there are questions.
+I have a community [Discord](https://discord.gg/Ubx7Tvu/) server if there are questions based on the server.
