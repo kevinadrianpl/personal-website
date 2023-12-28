@@ -1,7 +1,7 @@
 +++
 title = "Game Server Website"
 author = "Kevin Adrian Pillay"
-date = "2019-05-16"
+date = ""
 postSlug: game-server-website
 featured: false
 draft: false
