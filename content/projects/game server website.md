@@ -1,7 +1,11 @@
 +++
-author = "Kevin Adrian Pillay"
 title = "Game Server Website"
+author = "Kevin Adrian Pillay"
 date = "2019-05-16"
+postSlug: game-server-website
+featured: false
+draft: false
+ogImage: ""
 description = "A website dedicated to the Minecraft server I host, including tutorials and links to vote for the server globally"
 tags = [
     "minecraft",
