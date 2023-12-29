@@ -1,7 +1,7 @@
 +++
-title = "Game Server Host"
-author = "Kevin Adrian Pillay"
-date = "2019-05-16"
+title = Game Server Host
+author = Kevin Adrian Pillay
+date = 2019-05-16
 postSlug: game-server-host
 featured: false
 draft: false
