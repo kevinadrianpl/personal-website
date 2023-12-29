@@ -1,7 +1,6 @@
 +++
 title = "Open Source HTML Website"
 author = "Kevin Adrian Pillay"
-date = "2019-05-16"
 description = "A simple website that can be used as a template. This was done as practice and contains basic code and images"
 tags = [
     "website",
