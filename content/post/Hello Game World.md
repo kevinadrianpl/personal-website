@@ -3,6 +3,17 @@ title = "Hello Game World"
 author = "Kevin Adrian Pillay"
 description = "So why game development as a side project?"
 date = "2023-12-22"
+tags = [
+    "programming",
+    "gaming",
+    "devlogs",
+]
+categories = [
+    "devlog",
+    "devlogs",
+]
+series = ["Devlogs"]
+aliases = ["devlogs"]
 +++
 
 So why game development as a side project?
