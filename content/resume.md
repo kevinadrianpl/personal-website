@@ -1,7 +1,7 @@
 ---
-author: "Kevin Adrian Pillay"
+author: ""
 title: "Resume"
-description: "My resume is available for your perusal on this page"
+description: "You can also view my LinkedIn profile for the same information"
 aliases: ["resume", "cv"]
 ---
 
