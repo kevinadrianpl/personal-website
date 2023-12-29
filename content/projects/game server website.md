@@ -1,11 +1,7 @@
 +++
 title = "Game Server Website"
 author = "Kevin Adrian Pillay"
-date = ""
-postSlug: "game-server-website"
-featured: "false"
-draft: "false"
-ogImage: ""
+date = "2019-05-16"
 description = "A website dedicated to the Minecraft server I host, including tutorials and links to vote for the server globally"
 tags = [
     "minecraft",
