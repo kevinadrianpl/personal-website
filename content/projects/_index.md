@@ -2,6 +2,6 @@
 aliases = ["projects", "project"]
 title = "Projects"
 author = "Kevin Adrian Pillay"
-description = "This post covers various sections: [Introduction](#game-server-host)"
+description = "This page covers various projects I have completed so far"
 tags = ["index"]
 +++
