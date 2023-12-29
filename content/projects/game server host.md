@@ -1,10 +1,10 @@
 +++
-title = Game Server Host
-author = Kevin Adrian Pillay
-date = 2019-05-16
-postSlug: game-server-host
-featured: false
-draft: false
+title = "Game Server Host"
+author = "Kevin Adrian Pillay"
+date = "2019-05-16"
+postSlug: "game-server-host"
+featured: "false"
+draft: "false"
 ogImage: ""
 description = "A Minecraft game server designed for the community of South Africa with custom Java plugins"
 tags = [
