@@ -1,5 +1,6 @@
 +++
 title = "Hello Game World"
+author = "Kevin Adrian Pillay"
 description = "Why would I want to do game development as a side project?"
 date = "2023-12-22"
 +++
