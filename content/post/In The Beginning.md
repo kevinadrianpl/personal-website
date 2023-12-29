@@ -1,6 +1,6 @@
 +++
 title = "Hello Game World"
-description: "Why would I want to do game development as a side project?"
+description = "Why would I want to do game development as a side project?"
 date = "2023-12-22"
 +++
 
