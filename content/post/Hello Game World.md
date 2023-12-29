@@ -1,10 +1,8 @@
-+++
+---
 title = "Hello Game World"
 author = "Kevin Adrian Pillay"
 description = "So why game development as a side project?"
 date = "2023-12-22"
-+++
-So why game development as a side project?
 ---
 
 As an enthusiast of both tech and gaming, I've decided to start my adventure in game development as a side project during my free time. This aims to not only improve my technical skills such as coding and design but also a bit of fun since I have always enjoyed gaming.
