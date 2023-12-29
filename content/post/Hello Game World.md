@@ -4,7 +4,6 @@ author = "Kevin Adrian Pillay"
 description = "So why game development as a side project?"
 date = "2023-12-22"
 +++
----
 So why game development as a side project?
 ---
 
