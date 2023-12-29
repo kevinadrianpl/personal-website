@@ -18,7 +18,6 @@ series = ["Minecraft Server"]
 aliases = ["minecraft"]
 +++
 
----
 I own, maintain and secure a small Minecraft server that operates under the name <font color="red">Dxrery Networks</font> and is a Towny server hosted in South Africa with custom mod-like features and free time-based ranks in-game. 
 
 The features of the game server contain custom jobs, a questing system, a battlepass, player-based and server shops, a claiming system based on creating a town and a community within that town, Slimefun, and much more. It currently runs [PaperMC](https://papermc.io/downloads/paper) which is a fork of Spigot, designed to greatly improve performance and offer more advanced features and API. 
