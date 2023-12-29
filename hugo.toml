@@ -53,22 +53,16 @@ url = "https://www.youtube.com/@kevinadrianpl/"
 [menu]
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
-
-  [[menu.main]]
     identifier = "projects"
     name = "Projects"
     url = "/projects/"
-    weight = 11
+    weight = 10
 
   [[menu.main]]
     identifier = "resume"
     name = "Resume"
     url = "/resume/"
-    weight = 12
+    weight = 11
 
 [taxonomies]
 category = "categories"
