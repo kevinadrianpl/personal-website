@@ -1,7 +1,7 @@
 +++
 aliases = ["projects", "project"]
 title = "Projects"
-description: >
+description = >
     This page covers various sections:  
     - [Introduction](#game-server-host)  
     - [Section 1](#section-1)  
