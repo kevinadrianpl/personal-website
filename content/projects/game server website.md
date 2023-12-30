@@ -25,4 +25,4 @@ The main purpose of the website is to host my own written tutorials for the in-g
 
 This is a basic project but very helpful to those that use the game server.
 
-If you are interested, you can visit the [Dxrery Networks](https://web.dxrery.cyou/).
+If you are interested, you can visit [Dxrery Networks](https://web.dxrery.cyou/).
