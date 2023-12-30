@@ -1,6 +1,5 @@
 +++
 author = "Kevin Adrian Pillay"
-description = "Contact me via one of the social links above"
 +++
 
 <h1> Hello! 👋 I'm Kevin Adrian Pillay</h1>
