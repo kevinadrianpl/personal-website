@@ -60,10 +60,16 @@ url = "https://www.youtube.com/@kevinadrianpl/"
     weight = 10
 
   [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about.md/"
+    weight = 11
+
+  [[menu.main]]
     identifier = "resume"
     name = "Resume"
     url = "/resume/"
-    weight = 11
+    weight = 12
 
 [taxonomies]
 category = "categories"
