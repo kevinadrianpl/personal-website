@@ -10,5 +10,3 @@ You can view my resume below and contact me if you have any requests or job offe
 
 <embed src="resume.pdf" width="755" height="1010" 
  type="application/pdf">
-
-![Basic HTML Website](https://media1.tenor.com/m/zmgbly7DBRUAAAAC/fire.gif)
