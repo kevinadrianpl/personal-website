@@ -10,4 +10,4 @@ I'm an experienced IT systems administrator and cybersecurity enthusiast with a 
 
 I work on small non-commercial projects and firmly believe in the driving force of the open-source movement, every day is a chance to dive deeper into the vast sea of IT.
 
-<iframe src="https://giphy.com/embed/dbtDDSvWErdf2" width="755" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/richard-ayoade-it-crowd-maurice-moss-dbtDDSvWErdf2">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/dbtDDSvWErdf2" width="755" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/richard-ayoade-it-crowd-maurice-moss-dbtDDSvWErdf2"
