@@ -18,7 +18,7 @@ sectionPagesMenu = "main"
 noindex = false
 
 [params.theme]
-palette = "windows-95"
+palette = "tender"
 
 # Sidebar: about/bio
 [params.about]
