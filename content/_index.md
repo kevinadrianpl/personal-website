@@ -9,5 +9,3 @@ A techie originally from South Africa now making waves in The Netherlands.
 I'm an experienced IT systems administrator and cybersecurity enthusiast with a history of working in multiple industries in various roles such as IT management, server management, system administration, and information security. 
 
 I work on small non-commercial projects and firmly believe in the driving force of the open-source movement, every day is a chance to dive deeper into the vast sea of IT.
-
-<iframe src="https://giphy.com/embed/dbtDDSvWErdf2" width="450" height="130" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
