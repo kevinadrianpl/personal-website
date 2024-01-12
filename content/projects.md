@@ -40,7 +40,7 @@ The main purpose of the website is to host my own written tutorials for the in-g
 <details>
   <summary>Game Server Host</summary>
   
-I own, maintain and secure a small gaming server that runs Minecraft: Java Edition and is a Towny creation server hosted in South Africa with custom mod-like features and free time-based ranks in-game. 
+I own, maintain and secure a small gaming server that runs 'Minecraft: Java Edition' and is a Towny creation server hosted in South Africa with custom mod-like features and free time-based ranks in-game. 
 
 The features of the game server contain custom player jobs, a questing system, a free battlepass, player and server shops, a claiming system based on creating a town and a community within that town, the mod-like plugin Slimefun, and much more. It currently runs [PaperMC](https://papermc.io/downloads/paper) which is a fork of Spigot, designed to greatly improve performance and offer more advanced features and API. 
 
