@@ -46,7 +46,7 @@ The features of the game server contain custom player jobs, a questing system, a
 
 Many of the Java based plugins that run on the server are open source while many others are premium plugins from [Spigot](https://www.spigotmc.org/resources/). A few of these plugins I have coded myself using Java and are only available on this server, *for now*. 
 
-This server was started in 2019 and has been online ever since, with an average daily user rate of 10 to 15 players, with the peak going up to over 100 players. 
+This server was started in 2019 and has been online ever since, with an average daily user rate of 10 to 15 players, with the peak of over 100 players. 
 
 This project is on-going indefinitely and most likely will not shut down any time soon since it is a used on a regular basis by South African players because there are not many other African based servers available. This helps the community with lower bandwidth that still want to play online with low ping.
   
