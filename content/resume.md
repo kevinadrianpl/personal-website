@@ -1,7 +1,7 @@
 ---
 author: ""
 title: "Resume"
-description: "You can also view my LinkedIn profile for a more detailed view"
+description: "You can also view my LinkedIn profile for a more detailed resume"
 aliases: ["resume", "cv"]
 ---
 
