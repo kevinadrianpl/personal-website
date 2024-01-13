@@ -2,7 +2,7 @@
 author = "Kevin Adrian Pillay"
 +++
 
-<h1> Hello! 👋 I'm Kevin Adrian Pillay, aka Adrian Kevin.</h1>
+<h1> Hello! 👋 I'm Kevin Adrian Pillay aka Adrian Kevin.</h1>
 
 A techie originally from South Africa now making waves in The Netherlands.
 
